@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!sleep_gpa_paper.ipynb
+!regression_analyses.R
+!NetHealth/NetHealth_cleaning/NetHealth_cleaning.ipynb
